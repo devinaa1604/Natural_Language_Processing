@@ -1,6 +1,6 @@
 # Natural_Language_Processing
 
-This repository is for me to practice with Natural Language Processing.
+This repository is for me to practice with Natural Language Processing. Refer to the Supplemental folder for the necessary downloads. 
 
 ## Topics Covered:
 1. Tokenization
